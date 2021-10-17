@@ -3,7 +3,7 @@
 # PrintNightmare (CVE-2021-1675 / CVE-2021-34527)
 #
 # Authors:
-#   @ollypwn (https://github.com/ollypwn)
+#   @ly4k (https://github.com/ly4k)
 #
 # Credit:
 #   @cube0x0 (https://github.com/cube0x0)

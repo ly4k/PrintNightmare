@@ -253,7 +253,7 @@ $ sudo service smbd start
 Suppose your Linux machine has the IP `192.168.1.100` and you wish to serve the `evil.dll`, then the UNC path in this scenario will be `\\192.168.1.100\smb\evil.dll`. 
 
 ## Authors
-- [@ollypwn](https://github.com/ollypwn)
+- [@ly4k](https://github.com/ly4k)
 
 ## Credits
 - [@cube0x0](https://github.com/cube0x0)'s [implementation](https://github.com/cube0x0/CVE-2021-1675)
